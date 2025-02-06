@@ -31,7 +31,7 @@ The **interactive dashboard** provides:
 
 ## Repository Contents
 - **`government_spending_analysis.py`** – Python script for data preprocessing and model training
-- **`data/`** – Folder containing datasets
+- **`data`** – Folder containing datasets
 
 ## Author
 **Balla Diaite**  
