@@ -1,7 +1,7 @@
 # Government Spending Data Analysis Report
 
 ## Executive Summary
-This report presents an analysis of **government spending transactions** to identify key trends, visualize financial distributions, and detect anomalies using machine learning. The analysis was conducted using **Python, SQL, and Power BI**, with a focus on detecting unusual transactions and understanding budget allocations.
+This report presents an analysis of **government spending transactions** to identify key trends, visualize financial distributions, and detect anomalies using machine learning. The analysis was conducted using **Python, Power BI, and machine learning models**, with a focus on detecting unusual transactions and understanding budget allocations.
 
 ## Key Findings
 
@@ -53,6 +53,25 @@ The **interactive Power BI dashboard** visualizes:
 
 📌 **View the Power BI Dashboard Here**:  
 🔗 [Government Spending Dashboard](https://app.powerbi.com/groups/me/reports/353aaea2-288a-4a12-a846-71b48bdb8904/4f73d7e235ed83523939?experience=power-bi)
+
+## Recommendations
+Based on the analysis, the following actions are recommended:
+
+1. **Investigate High Outlier Transactions**  
+   - Departments with the most outliers, such as **Defense and Veterans Affairs**, should undergo a **detailed audit** to understand why these anomalies exist.  
+   - Special focus should be placed on **reimbursable activities** and **undistributed funds** since they have a large share of flagged transactions.
+
+2. **Optimize Budget Allocation**  
+   - **Health care services and pollution control** are among the highest-funded areas. Policymakers should ensure that these funds are being used effectively.  
+   - **Departments with large unobligated balances** should be analyzed to determine if funds can be reallocated to areas in greater need.
+
+3. **Enhance Financial Oversight with Machine Learning**  
+   - The **machine learning model successfully identified anomalies**, proving that AI can be integrated into **fraud detection** systems for government spending.  
+   - Continuous monitoring should be implemented to flag transactions **before** they become an issue.
+
+4. **Improve Data Transparency & Accessibility**  
+   - Government agencies should **increase transparency** by making spending data easily available and categorized properly.  
+   - Future spending reports should **include multi-year data** instead of just December 2024 to identify long-term trends.
 
 ## Conclusion
 This analysis provides a comprehensive view of **government financial transactions**, helping policymakers monitor **spending trends** and detect **potential anomalies**. The **machine learning model** successfully identifies irregularities, while **Power BI dashboards** enhance the ability to explore data interactively.
