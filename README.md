@@ -35,4 +35,4 @@ The **interactive dashboard** provides:
 
 ## Author
 🚀 **Balla Diaite**  
-📌 **Power BI Dashboard**: [(https://app.powerbi.com/groups/me/reports/353aaea2-288a-4a12-a846-71b48bdb8904/0bbdd86199950e8db229?experience=power-bi)]
+📌 **Power BI Dashboard**: (https://app.powerbi.com/groups/me/reports/353aaea2-288a-4a12-a846-71b48bdb8904/0bbdd86199950e8db229?experience=power-bi)
