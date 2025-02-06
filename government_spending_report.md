@@ -51,8 +51,8 @@ The **interactive Power BI dashboard** visualizes:
 - **Outlier transactions** using pie charts and stacked bar charts.
 - **Spending breakdown by budget category** with treemaps.
 
-📌 **View the Power BI Dashboard Here**:  
-🔗 [Government Spending Dashboard](https://app.powerbi.com/groups/me/reports/353aaea2-288a-4a12-a846-71b48bdb8904/4f73d7e235ed83523939?experience=power-bi)
+**View the Power BI Dashboard Here**:  
+[Government Spending Dashboard](https://app.powerbi.com/groups/me/reports/353aaea2-288a-4a12-a846-71b48bdb8904/4f73d7e235ed83523939?experience=power-bi)
 
 ## Recommendations
 Based on the analysis, the following actions are recommended:
@@ -77,4 +77,4 @@ Based on the analysis, the following actions are recommended:
 This analysis provides a comprehensive view of **government financial transactions**, helping policymakers monitor **spending trends** and detect **potential anomalies**. The **machine learning model** successfully identifies irregularities, while **Power BI dashboards** enhance the ability to explore data interactively.
 
 ---
-🚀 **Author:** Balla Diaite
+**Author:** Balla Diaite
