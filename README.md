@@ -7,10 +7,8 @@ This project analyzes **government spending transactions** to uncover trends, de
 - **Python**: Data preprocessing, machine learning, and analysis
 - **Pandas & NumPy**: Data manipulation and transformation
 - **Scikit-Learn**: Machine learning model for anomaly detection
-- **SHAP**: Model explainability and feature importance analysis
 - **Matplotlib & Seaborn**: Exploratory data visualization
 - **Power BI**: Interactive dashboard for financial insights
-- **SQL**: Data extraction and processing
 
 ## Datasets
 - **Raw Datasets**:  
