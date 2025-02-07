@@ -28,7 +28,7 @@ The **interactive dashboard** provides:
 - Anomaly detection to highlight irregular spending patterns
 
 ## Repository Contents
-- **`government_spending_analysis.py`** – Python script for data preprocessing and model training
+- **`Government Spending Data Analysis.ipynb`** – Python script for data preprocessing and model training
 - **`data`** – Folder containing datasets
 
 ## Author
