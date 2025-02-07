@@ -30,6 +30,7 @@ The **interactive dashboard** provides:
 ## Repository Contents
 - **`Government Spending Data Analysis.ipynb`** – Python script for data preprocessing and model training
 - **`data`** – Folder containing datasets
+- **`government_spending_report.md` – Report detailing key findings, recommendations, and machine learning performance analysis.
 
 ## Author
 **Balla Diaite**  
