@@ -37,19 +37,18 @@ The largest government-funded programs include:
 
 ## Machine Learning Model Performance
 - **Algorithm Used**: Random Forest Classifier
-- **Train Accuracy**: 100%
-- **Test Accuracy**: 99.92%
+- **Train Accuracy**: 99.15%
+- **Test Accuracy**: 98.76%
 - **Key Features in Outlier Detection**:
-  - **Obligations Incurred Balances**: 30.56%
-  - **Total Budgetary Resources**: 22.26%
-  - **Unobligated Balance**: 9.40%
+  - **Obligations Incurred Balances**: 10.3%
+  - **Total Budgetary Resources**: 7.8%
+  - **Unobligated Balance**: 6.1%
 
 ## Power BI Dashboard Insights
 The **interactive Power BI dashboard** visualizes:
 - **Total spending and obligations** through KPIs.
-- **Top agencies and programs by spending** using bar charts.
-- **Outlier transactions** using pie charts and stacked bar charts.
-- **Spending breakdown by budget category** with treemaps.
+- **Top agencies and programs by spending using bar charts.
+- **Outlier transactions using pie charts and bar charts.
 
 **View the Power BI Dashboard Here**:  
 [Government Spending Dashboard](https://app.powerbi.com/groups/me/reports/353aaea2-288a-4a12-a846-71b48bdb8904/4f73d7e235ed83523939?experience=power-bi)
