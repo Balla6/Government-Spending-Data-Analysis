@@ -47,8 +47,8 @@ The largest government-funded programs include:
 ## Power BI Dashboard Insights
 The **interactive Power BI dashboard** visualizes:
 - **Total spending and obligations** through KPIs.
-- **Top agencies and programs by spending using bar charts.
-- **Outlier transactions using pie charts and bar charts.
+- **Top agencies and programs by spending** using bar charts.
+- **Outlier transactions** using pie charts and bar charts.
 
 **View the Power BI Dashboard Here**:  
 [Government Spending Dashboard](https://app.powerbi.com/groups/me/reports/353aaea2-288a-4a12-a846-71b48bdb8904/4f73d7e235ed83523939?experience=power-bi)
