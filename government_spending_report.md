@@ -76,4 +76,3 @@ Based on the analysis, the following actions are recommended:
 This analysis provides a comprehensive view of **government financial transactions**, helping policymakers monitor **spending trends** and detect **potential anomalies**. The **machine learning model** successfully identifies irregularities, while **Power BI dashboards** enhance the ability to explore data interactively.
 
 ---
-**Author:** Balla Diaite
